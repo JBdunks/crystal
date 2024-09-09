@@ -1,0 +1,1798 @@
+[
+    {
+        "index": 0,
+        "title": "Dressed To Kill",
+        "released": 1980,
+        "rated": "R",
+        "director": "Brian De Palma",
+        "stars": ["Michael Canine", "Angie Dickinson"],
+        "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+        "viewed": [2021, 12, 28],
+        "image": "https://images2.imgbox.com/7e/72/liYvm0bd_o.png",
+        "imdb": "https://www.imdb.com/title/tt0080661/"
+    },
+
+    {
+        "index": 1,
+        "title": "Blow Out",
+        "released": 1981,
+        "rated": "R",
+        "director": "Brian De Palma",
+        "stars": ["John Travolta", "Nancy Allen", "John Lithgow"],
+        "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+        "viewed": [2022, 1, 4],
+        "image": "https://images2.imgbox.com/87/94/kDzWapyu_o.png",
+        "imdb": "https://www.imdb.com/title/tt0082085/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 2,
+        "title": "Road House",
+        "released": 1989,
+        "rated": "R",
+        "director": "Rowdy Herrington",
+        "stars": ["Patrick Swayze", " Kelly Lynch", "Sam Elliott"],
+        "genres": ["Action", "Thriller"],
+        "viewed": [2022, 1, 11],
+        "image": "https://images2.imgbox.com/98/12/WW4ti9XJ_o.png",
+        "imdb": "https://www.imdb.com/title/tt0098206/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 3,
+        "title": "American Psycho",
+        "released": 2000,
+        "rated": "R",
+        "director": "Mary Harron",
+        "stars": ["Christian Bale", "Justin Theroux", "Jared Leto", "Willem Dafoe"],
+        "genres": ["Crime", "Drama", "Horror"],
+        "viewed": [2022, 1, 18],
+        "image": "https://images2.imgbox.com/0f/bc/ESfIER6O_o.png",
+        "imdb":"https://www.imdb.com/title/tt0144084/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 4,
+        "title": "Blood Sport",
+        "released": 1988,
+        "rated": "R",
+        "director": "Newt Arnold",
+        "stars": ["Jean-Claude Van Damme", "Forest Whitaker"],
+        "genres": ["Action", "Biogrpahy", "Drama", "Sport"],
+        "viewed": [2022, 1, 25],
+        "image": "https://images2.imgbox.com/bf/43/fsFlZlBt_o.png",
+        "imdb": "https://www.imdb.com/title/tt0092675/"
+    },
+
+    {
+        "index": 5,
+        "title": "Jason and the Argonauts",
+        "released": 1963,
+        "rated": "G",
+        "director": "Don Chaffey",
+        "stars": ["Todd Armstron", "Nancy Kovack"],
+        "genres": ["Action","Adventure", "Family", "Fantasy"], 
+        "viewed": [2022, 2, 1],
+        "image": "https://images2.imgbox.com/16/cd/qr6Zglcg_o.png",
+        "imdb": "https://www.imdb.com/title/tt0057197/"
+    },
+
+    {
+        "index": 6,
+        "title": "Moonfall",
+        "released": 2022,
+        "rated": "PG-13",
+        "director": "Roland Emmerich",
+        "stars": ["Halle Berry", "Patrick Wilson", "John Bradley"],
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "viewed": [2022, 2, 8],
+        "image": "https://images2.imgbox.com/72/d4/u9wmrIxp_o.png",
+        "imdb":"https://www.imdb.com/title/tt5834426/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_moonfall"
+    },
+
+    {
+        "index": 7,
+        "title": "Amazon Women on the Moon",
+        "released": 1987,
+        "rated": "R",
+        "director": "Joe Dante",
+        "stars": ["Rosanna Arquette", "Michelle Pfeiffer", "Aresnio Hall"],
+        "genres": ["Comedy", "Sci-Fi"],
+        "viewed": [2022, 2, 15],
+        "image": "https://images2.imgbox.com/cb/c1/jK9rrO4K_o.png",
+        "imdb": "https://www.imdb.com/title/tt0092546/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 8,
+        "title": "Prime Cut",
+        "released": 1972,
+        "rated": "R",
+        "director":"Robert Dillon" ,
+        "stars": ["Lee Marvin", "Gene Hackman", "Sissy Spacek"],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "viewed": [2022, 2, 22],
+        "image": "https://images2.imgbox.com/68/c4/nHw5pdBU_o.png",
+        "imdb": "https://www.imdb.com/title/tt0069121/"
+    },
+
+    {
+        "index": 9,
+        "title": "The Time Machine",
+        "rated": "G",
+        "released": 1960,
+        "director": "George Pal",
+        "stars": ["Rod Taylor", "Alan Young", "Yvette Mimeiuex"],
+        "genres": ["Adventure","Romance","Sci-Fi", "Thriller"],
+        "viewed": [2022, 3, 1],
+        "image": "https://images2.imgbox.com/fb/af/pRHn1Rys_o.png",
+        "imdb": "https://www.imdb.com/title/tt0054387/?ref_=nv_sr_srsg_3_tt_7_nm_1_q_the%2520time%2520machine"
+    },
+
+
+    {
+        "index": 10,
+        "title": "After Hours",
+        "released": 1985,
+        "rated": "R",
+        "director": "Martin Scorsese",
+        "stars": ["Griffin Dunne", "Rosanna Arquette"],
+        "genres": ["Comedy", "Crime", "Drama", "Thriller"],
+        "viewed": [2022, 3, 8],
+        "image": "https://images2.imgbox.com/34/2d/x3xiEDL4_o.png",
+        "imdb": "https://www.imdb.com/title/tt0088680/?ref_=tt_mv_close"
+    },
+
+    {
+        "index": 11,
+        "title": "First Blood",
+        "released": 1982,
+        "rated": "R",
+        "director": "Ted Kotcheff",
+        "stars": ["Sylvester Stallone", "Brian Dennehy", "Richard Crenna"],
+        "genres": ["Action", "Adventure", "Thriller"],
+        "viewed": [2022, 3, 15],
+        "image": "https://images2.imgbox.com/4c/2e/KvO6aeKD_o.png",
+        "imdb":"https://www.imdb.com/title/tt0083944/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 12,
+        "title": "Caveman",
+        "released": 1981,
+        "rated": "PG",
+        "director": "Carl Gottlieb",
+        "stars": ["Ringo Star", "Dennis Quaid", "Shelley Long"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2022, 3, 22],
+        "image": "https://images2.imgbox.com/8c/67/5nqMwqmj_o.png",
+        "imdb": "https://www.imdb.com/title/tt0082146/"
+    },
+
+    {
+        "index": 13,
+        "title": "Ladybugs",
+        "released": 1992,
+        "rated": "PG-13",
+        "director": "Sidney Furie",
+        "stars": ["Rodney Dangerfield", " Jackee Harry", "Jonathan Brandis"],
+        "genres": ["Comedy", "Sport"],
+        "viewed": [2022, 3, 29],
+        "image": "https://images2.imgbox.com/f1/59/GQRhv8iD_o.png",
+        "imdb": "https://www.imdb.com/title/tt0104670/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 14,
+        "title": "Damien: Omen II",
+        "released": 1978,
+        "rated": "R",
+        "director": "Don Taylor",
+        "stars": ["William Holden", " Lee Grant", "Jonathan, Scott-Taylor"],
+        "genres": ["Horror"],
+        "viewed": [2022, 4, 5],
+        "image": "https://images2.imgbox.com/c3/49/VtwZmRMO_o.png",
+        "imdb": "https://www.imdb.com/title/tt0077394/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 15,
+        "title": "Young Docotors in Love",
+        "released": 1982,
+        "rated": "R",
+        "director": "Gary Marshall",
+        "stars": ["Michael MCKean", "Sean Young", "Gary Friedkin"],
+        "genres": ["Comedy"],
+        "viewed": [2022, 4, 12],
+        "image": "https://images2.imgbox.com/49/40/uIQs328t_o.png",
+        "imdb": "https://www.imdb.com/title/tt0084938/"
+    },
+
+    {
+        "index": 16,
+        "title": "My Bloody Valentine 3D",
+        "released": 2009,
+        "rated": "R",
+        "director": "Patrick Lussier",
+        "stars": ["Jensen Ackles", "Jamie King", "Kerr Smith"],
+        "genres": ["Horror", "Mystlery", "Thriller"],
+        "viewed": [2022, 4,20],
+        "image": "https://images2.imgbox.com/6c/50/KI8lyU8y_o.png",
+        "imdb": "https://www.imdb.com/title/tt1179891/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_my%2520bloody%2520valentine"
+    },
+
+    {
+        "index": 17,
+        "title": "She's All That",
+        "released": 1999,
+        "rated": "PG-13",
+        "director": "Robert Iscove",
+        "stars": ["Freddy Prince Jr","Rachael Leigh Cook", "Matthew Lillard"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2022, 4, 26],
+        "image": "https://images2.imgbox.com/ed/40/KfWZfALz_o.png",
+        "imdb":"https://www.imdb.com/title/tt0160862/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 18,
+        "title": "Annie Hall",
+        "released": 1977,
+        "rated": "PG",
+        "director": "Woody Allen",
+        "stars": ["woody Allen", "Diane Keaton", "Tony Roberts"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2022, 5, 3],
+        "image": "https://images2.imgbox.com/43/f1/Sc2Mn6D5_o.png",
+        "imdb": "https://www.imdb.com/title/tt0075686/"
+    },
+
+    {
+        "index": 19,
+        "title": "Spontaneous",
+        "released":  2020,
+        "rated": "R",
+        "director": "Brian Duffield",
+        "stars": ["Katherine Langford", "Charlie Plummer", "Yvonne Orji"],
+        "genres": ["Comedy", "Drama", "Horror", "Romance"],
+        "viewed": [2022, 5, 10],
+        "image": "https://images2.imgbox.com/35/e5/S2qn7t1r_o.png",
+        "imdb": "https://www.imdb.com/title/tt5774062/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 20,
+        "title": "What We Do in the Shadows",
+        "released": 2014,
+        "rated": "R",
+        "director": "Jemaine Clement",
+        "stars": ["Jemaine Clement", "Taika Waititi", "Cori Gonzalez-Macuer"],
+        "genres": ["Comedy", "Horror"],
+        "viewed": [2022, 5, 17],
+        "image": "https://images2.imgbox.com/92/5d/DQx5Jyna_o.png",
+        "imdb": "https://www.imdb.com/title/tt3416742/?ref_=tt_tpks_tt_i_1_pd_detail_2_pbr_ic"
+    },
+
+    {
+        "index": 21,
+        "title": "Firestarter",
+        "released": 1984,
+        "rated": "R",
+        "director": "Mark L. Lester",
+        "stars": ["Drew Barrymore", "David Keith", "Freddie Jones"],
+        "genres": ["Action", "Horror", "Sci-Fi", "Thriller"],
+        "viewed": [2022, 5, 20],
+        "image": "https://images2.imgbox.com/b9/1c/ZjbQ698I_o.png",
+        "imdb": "https://www.imdb.com/title/tt0087262/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 22,
+        "title": "Tremors",
+        "released": 1990,
+        "rated": "PG-13",
+        "director": "Ron Underwood",
+        "stars": ["Kevin Bacon", "Fred Ward", "Finn Carter"],
+        "genres": ["Comedy", "Horror"],
+        "viewed": [2022, 5, 24],
+        "image": "https://images2.imgbox.com/80/b3/PFk4SG0l_o.png",
+        "imdb": "https://www.imdb.com/title/tt0100814/?ref_=fn_al_tt_1"
+    },
+
+    
+    {
+        "index": 23,
+        "title": "Predator",
+        "released": 1987,
+        "rated": "R",
+        "director": "John McTiernan",
+        "stars": ["Arnold Schwarzenegger", "Carl Weathers", "Kevin Peter Hall"],
+        "genres": ["Action", "Adventure", "Horror", "Sci-Fi"],
+        "viewed": [2022, 5, 31],
+        "image": "https://images2.imgbox.com/43/de/FB94xanj_o.png",
+        "imdb": "https://www.imdb.com/title/tt0093773/"
+    },
+
+    {
+        "index": 24,
+        "title": "Black Moon Rising",
+        "released": 1986,
+        "rated": "R",
+        "director": "Harley Cokeliss",
+        "stars": ["Tommy Lee Jones", "Linda Hamilton", "Robert Vaughn"],
+        "genres": ["Action", "Crime", "Thriller"],
+        "viewed": [2022, 6, 8],
+        "image": "https://images2.imgbox.com/a6/85/jsZ1onBl_o.png",
+        "imdb": "https://www.imdb.com/title/tt0090735/"
+    },
+
+    {
+        "index": 25,
+        "title": "The Treasure of the Sierra Madre",
+        "released": 1948,
+        "rated": "Approved",
+        "director": "John Huston",
+        "stars": ["Humphrey Bogart", "Walter Hudson", "Tim Holt"],
+        "genres": ["Action", "Drama", "Western"],
+        "viewed": [2022, 6, 14],
+        "image": "https://images2.imgbox.com/41/82/ieypXiwX_o.png",
+        "imdb": "https://www.imdb.com/title/tt0040897/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 26,
+        "title": "Nate and Hayes",
+        "released": 1983,
+        "rated": "PG",
+        "director": "Ferdinand Fairfax",
+        "stars": ["Tommy Lee Jones", "Michael O'Keefe", "Max Phipps"],
+        "genres": ["Action", "Adventure", "Comedy", "Romance"],
+        "viewed": [2022, 6, 21],
+        "image": "https://images2.imgbox.com/b0/d9/w74Arhdj_o.png",
+        "imdb": "https://www.imdb.com/title/tt0085994/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 27,
+        "title": "Dante's Peak",
+        "released": 1997,
+        "rated": "PG-13",
+        "director": "Roger Donaldson",
+        "stars": ["Pierce Brosnan", "Linda Hamilton", "Jamie Renee Smith"],
+        "genres": ["Action", "Adventure", "Thriller"],
+        "viewed": [2002, 6, 28],
+        "image": "https://images2.imgbox.com/d2/e8/4Y84OhZR_o.png",
+        "imdb": "https://www.imdb.com/title/tt0118928/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 28,
+        "title": "Deep Blue Sea",
+        "released": 1999,
+        "rated": "R",
+        "director": "Renny Harlin",
+        "stars": ["Thomas Jane", "Saffron Burrows", "Samuel L. Jackson"],
+        "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+        "viewed": [2022, 7, 5],
+        "image": "https://images2.imgbox.com/f1/8c/b5122wsr_o.png",
+        "imdb": "https://www.imdb.com/title/tt0149261/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 29,
+        "title": "Notting Hill",
+        "released": 1999,
+        "rated": "PG-13",
+        "director": "Roger Michell",
+        "stars": ["Juilia Roberts", "Hugh Grant", "Richard McCabe"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "viewed": [2022, 7, 12],
+        "image": "https://images2.imgbox.com/c4/0c/iC7G38K5_o.png",
+        "imdb": "https://www.imdb.com/title/tt0125439/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 30,
+        "title": "The Black Phone",
+        "released": 2021,
+        "rated": "R",
+        "director": "Scott Derrickson",
+        "stars": ["Mason thames", "Madeleine McGraw", "Ethan Hawke"],
+        "genres": ["Horror", "Mystery", "Thriller"],
+        "viewed": [2022, 7, 16],
+        "image": "https://images2.imgbox.com/31/89/kYxFwWJy_o.png",
+        "imdb": "https://www.imdb.com/title/tt7144666/"
+    },
+
+    {
+        "index": 31,
+        "title": "Wild Bill",
+        "released": 1995,
+        "rated": "R",
+        "director": "Walter Hill",
+        "stars": ["Jeff Bridges", "Ellen Barkin", "John Hunt"],
+        "genres": ["Action", "Biography", "Drama", "Western"],
+        "viewed": [2022, 7, 20],
+        "image": "https://images2.imgbox.com/7d/05/6XLIMRJc_o.png",
+        "imdb": "https://www.imdb.com/title/tt0114938/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 32,
+        "title": "Volcano",
+        "released": 1997,
+        "rated": "PG-13",
+        "director": "Mick Jackson",
+        "stars": ["Tommy Lee Jones", "Anne Heche", "Gaby Hoffmann"],
+        "genres": ["Action", "Drama", "Sci-Fi", "Thriller"],
+        "viewed": [2022, 7, 26],
+        "image": "https://images2.imgbox.com/22/5c/88fsUAiZ_o.png",
+        "imdb": "https://www.imdb.com/title/tt0120461/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 33,
+        "title": "Murder at 1600",
+        "released": 1997,
+        "rated": "R",
+        "director": "Dwight H. Little",
+        "stars": ["Wesley Sniper", "Diane Lane", "Daniel Benzali"],
+        "genres": ["Action", "Crime", "Drama", "Mystery", "Thriller"],
+        "viewed": [2022, 8, 9],
+        "image": "https://images2.imgbox.com/ec/89/YsfF4aAd_o.png",
+        "imdb": "https://www.imdb.com/title/tt0119731/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 34,
+        "title": "Bordello of Blood",
+        "released": 1996,
+        "rated": "R",
+        "director": "Gilbert Adler",
+        "stars": ["Dennis Miller", "Erika Eleniak", "Angie Everhart"],
+        "genres": ["Comedy", "Fantasy", "Horror"],
+        "viewed": [2022, 8, 16],
+        "image": "https://images2.imgbox.com/dd/90/1qufRyL4_o.png",
+        "imdb": "https://www.imdb.com/title/tt0117826/?ref_=fn_al_tt_1"
+    },
+    {
+        "index": 35,
+        "title": "I Wanna Hold Your Hand",
+        "released": 1978,
+        "rated": "PG",
+        "director": "Robert Zemeckis",
+        "stars": ["Nancy Allen", "Bobby Di Cicco", "Marc McClure"],
+        "genres": ["Comedy", "Music", "Romance"],
+        "viewed": [2022, 8, 23],
+        "image": "https://images2.imgbox.com/bc/02/EQJxmKG4_o.png",
+        "imdb": "https://www.imdb.com/title/tt0077714/?ref_=fn_al_tt_1"
+    },
+    {
+        "index": 36,
+        "title": "Trespass",
+        "released": 1992,
+        "rated": "R",
+        "director": "Walter Hill",
+        "stars": ["Bill Paxton", "Ice-T", "William Sadler"],
+        "genres": ["Action", "Thriller"],
+        "viewed": [2022, 8, 30],
+        "image": "https://images2.imgbox.com/5f/f4/EbKXz540_o.png",
+        "imdb": ""
+    },
+
+    {
+        "index": 37,
+        "title": "The Horde",
+        "released": 2009,
+        "rated": "NR",
+        "director": "Yannick Dahan",
+        "stars": ["Claude Perron", "Jean-Pierre Martins", "Eriq Ebouaney"],
+        "genres": ["Action", "Horror"],
+        "viewed": [2022, 9, 6],
+        "image": "https://images2.imgbox.com/d7/f7/96A81IWM_o.png",
+        "imdb": "https://www.imdb.com/title/tt1183276/"
+    },
+
+    {
+        "index": 38,
+        "title": "Anaconda",
+        "released": 1997,
+        "rated": "PG-13",
+        "director": "Luis Llosa",
+        "stars": ["John Voight", "Jennifer Lopez", "Eric Stoltz"],
+        "genres": ["Action", "Adventure", "Horror", "Thriller"],
+        "viewed": [2022, 9, 13],
+        "image": "https://images2.imgbox.com/52/fe/QALTbmU8_o.png",
+        "imdb": "https://www.imdb.com/title/tt0118615/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_anaconda"
+    },
+
+    {
+        "index": 39,
+        "title": "Pet Sematary Two",
+        "released": 1992,
+        "rated": "R",
+        "director": "Mary Lambert",
+        "stars": ["Edward Furlong", "Anthony Edwards", " Clancy Brown"],
+        "genres": ["Fantasy", "Horror", "Thriller"],
+        "viewed": [2022, 9, 20],
+        "image": "https://images2.imgbox.com/8e/c3/emYar0TC_o.png",
+        "imdb": "https://www.imdb.com/title/tt0105128/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 40,
+        "title": "Black Roses",
+        "released": 1988,
+        "rated": "R",
+        "director": "John Fasano",
+        "stars": ["John Martin", "Ken Swofford", "Sal Viviano"],
+        "genres": ["Horror", "Music"],
+        "viewed": [2022, 9, 27],
+        "image": "https://images2.imgbox.com/26/c7/G0BkK2c4_o.png",
+        "imdb": "https://www.imdb.com/title/tt0094752/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_black%2520roses"
+    },
+
+    {
+        "index": 41,
+        "title": "House",
+        "released": 1977,
+        "rated": "NR",
+        "director": "Nobuhiko Obayashi",
+        "stars": ["Kimiko Ikegami", "Miki Jinbo", "Kumiko Oba"],
+        "genres": ["Comedy", "Horror"],
+        "viewed": [2022, 10, 4],
+        "image": "https://images2.imgbox.com/e4/c6/GCN7I7jn_o.png",
+        "imdb": "https://www.imdb.com/title/tt0076162/?ref_=fn_al_tt_7"
+    },
+
+    {
+        "index": 42,
+        "title": "Invasion of the Body Snatchers",
+        "released": 1978,
+        "rated": "PG",
+        "director": "Philip Kaufman",
+        "stars": ["Donald Sutherland", "Brooke Adams", "Jeff Goldblum"],
+        "genres": ["Horror", "Sci-Fi"],
+        "viewed": [2022, 10, 11],
+        "image": "https://images2.imgbox.com/20/e0/Lcoon1Ih_o.png",
+        "imdb": "https://www.imdb.com/title/tt0077745/?ref_=tt_sims_tt_i_3"
+    },
+
+    {
+        "index": 43,
+        "title": "Insidious",
+        "released": 2010,
+        "rated": "PG-13",
+        "director": "James Wan",
+        "stars": ["Patrick Wilson", "Rose Byrne", "Ty Simpkins"],
+        "genres": ["Horror", "Mystery", "Thriller"],
+        "viewed": [2022, 10, 18],
+        "image": "https://images2.imgbox.com/40/2d/dm6jc9Zg_o.png",
+        "imdb": "https://www.imdb.com/title/tt1591095/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 44,
+        "title": "The Kindred",
+        "released": 1987,
+        "rated": "R",
+        "director": "Stephen Carpenter",
+        "stars": ["Rod Steiger", "Kim Hunter", "David Allen Brooks"],
+        "genres": ["Horror", "Sci-Fi", "Thriller"],
+        "viewed": [2022, 10, 25],
+        "image": "https://images2.imgbox.com/05/73/02NGF1LK_o.png",
+        "imdb": "https://www.imdb.com/title/tt0091343/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 45,
+        "title": "Phantom of the Mall: Eric's Revenge",
+        "released": 1989,
+        "rated": "R",
+        "director": "Richard Friedman",
+        "stars": ["Derek Rydall", "Jonathan Goldsmith", "Rob Estes" ],
+        "genres": ["Horror", "Romance"],
+        "viewed": [2022, 11, 1],
+        "image": "https://images2.imgbox.com/e3/27/XPSzt37h_o.png",
+        "imdb": "https://www.imdb.com/title/tt0098089/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 46,
+        "title": "Hansel & Gretel: Witch Hunters",
+        "released": 2013,
+        "rated": "R",
+        "director": "Tommy Wirkola",
+        "stars": ["Jeremy Renner", "Gemma Arterton", "Peter Stormare"],
+        "genres": ["Action", "Fantasy", "Horror"],
+        "viewed": [2022, 11, 3],
+        "image": "https://images2.imgbox.com/81/44/OBQAz7GZ_o.png",
+        "imdb": "https://www.imdb.com/title/tt1428538/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 47,
+        "title": "Dawn of the Dead",
+        "released": 2004,
+        "rated": "R",
+        "director": "Zack Snyder",
+        "stars": ["Sarah Polley", "Ving Rhames", "Mekhi Phifer"],
+        "genres": ["Action", "Horror"],
+        "viewed": [2022, 11, 8],
+        "image": "https://images2.imgbox.com/c2/2a/U9RSnhEL_o.png",
+        "imdb": "https://www.imdb.com/title/tt0363547/"
+    },
+
+    {
+        "index": 48,
+        "title": "A Serious Man",
+        "released": 2009,
+        "rated": "R",
+        "director": "Ethan Coen",
+        "stars": ["Michael Stuhlbarg", "Richard Kind", "Sari Lennick"],
+        "genres": ["Comedy", "Drama"],
+        "viewed": [2022, 11, 15],
+        "image": "https://images2.imgbox.com/7a/f0/f8ccwapB_o.png",
+        "imdb": "https://www.imdb.com/title/tt1019452/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 49,
+        "title": "Forrest Gump",
+        "released": 1994,
+        "rated": "PG-13",
+        "director": "Robert Zemeckis",
+        "stars": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "genres": ["Drama", "Romance"],
+        "viewed": [2022, 11, 22],
+        "image": "https://images2.imgbox.com/77/e1/S9p3LdZJ_o.png",
+        "imdb": ""
+    },
+
+    {
+        "index": 50,
+        "title": "Edward Scissorhands",
+        "released": 1990,
+        "rated": "PG-13",
+        "director": "Tim Burton",
+        "stars": ["Johnny Depp", "Winona Ryder", "Dianne Wiest"],
+        "genres": ["Drama", "Fantasy", "Romance"],
+        "viewed": [2022, 11, 29],
+        "image": "https://images2.imgbox.com/46/27/5w413A6h_o.png",
+        "imdb": "https://www.imdb.com/title/tt0099487/"
+    },
+
+    {
+        "index": 51,
+        "title": "Zorro",
+        "released": 1975,
+        "rated": "G",
+        "director": "Duccio Tessari",
+        "stars": ["Alain Delon", "Stanley Baker", "Ottavia Piccolo"],
+        "genres": ["Action", "Adventure", "Comedy", "Romance", "Western"],
+        "viewed": [2022, 12, 6],
+        "image": "https://images2.imgbox.com/a7/64/1R92lgQr_o.png",
+        "imdb": "https://www.imdb.com/title/tt0072448/?ref_=fn_al_tt_5"
+    },
+
+    {
+        "index": 52,
+        "title": "Story of Ricky",
+        "released": 1991,
+        "rated": "R",
+        "director": "Ngai Choi Lam",
+        "stars": ["Sui-Wong Fan", "Mei Sheng Fan", "Ka-Hui Ho"],
+        "genres": ["Action", "Comedy", "Crime", "Sci-Fi", "Thriller"],
+        "viewed": [2022, 12, 13],
+        "image": "https://images2.imgbox.com/e2/42/qGujIMm7_o.png",
+        "imdb": "https://www.imdb.com/title/tt0102293/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_story%2520of%2520ricky"
+    },
+
+    {
+        "index": 53,
+        "title": "A History of Violence",
+        "released": 2005,
+        "rated": "R",
+        "director": "David Cronenberg",
+        "stars": ["Viggo Mortensen", "Maria Bello", "Ed Harris"],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "viewed": [2022, 12, 20],
+        "image": "https://images2.imgbox.com/4c/c4/9CwNAInA_o.png",
+        "imdb": "https://www.imdb.com/title/tt0399146/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 54,
+        "title": "To Live and Die in L.A.",
+        "released": 1985,
+        "rated": "R",
+        "director": "William Friedkin",
+        "stars": ["William Petersen", "Willem Dafoe", "Jane Leeves"],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "viewed": [2022, 12, 27],
+        "image": "https://images2.imgbox.com/76/7c/jKs0kBS9_o.png",
+        "imdb": "https://www.imdb.com/title/tt0090180/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 55,
+        "title": "Three O'clock High",
+        "released": 1987,
+        "rated": "PG-13",
+        "director": "Phil Joanou",
+        "stars": ["Casey Siemaszko", "Annie Ryan", "Richard Tyson"],
+        "genres": ["Comedy"],
+        "viewed": [2023, 1, 3],
+        "image": "https://images2.imgbox.com/24/af/7brMRbz7_o.png",
+        "imdb": "https://www.imdb.com/title/tt0094138/"
+    },
+
+    {
+        "index": 56,
+        "title": "3-Iron",
+        "released": 2004,
+        "rated": "R",
+        "director": "Kim Ki-Duk",
+        "stars": ["Lee Seung-yun", "Jae Hee", "Hyuk-ho Kwon"],
+        "genres": ["Crime", "Drama", "Romance"],
+        "viewed": [2023, 1, 10],
+        "image": "https://images2.imgbox.com/87/95/UZeOU2nk_o.png",
+        "imdb": ""
+    },
+
+    {
+        "index": 57,
+        "title": "Four Rooms",
+        "released": 1995,
+        "rated": "R",
+        "director": "Allison Anders",
+        "stars": ["Tim Roth", "Antonio Banderas", "Sammi Davis"],
+        "genres": ["Comedy"],
+        "viewed": [2023, 1, 10],
+        "image": "https://images2.imgbox.com/87/95/UZeOU2nk_o.png",
+        "imdb": "https://www.imdb.com/title/tt0113101/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 58,
+        "title": "100 Bloody Acres",
+        "released": 2012,
+        "rated": "NR",
+        "director": "Cameron Cairnes",
+        "stars": ["Oliver Ackalnd", "Paul Blackwell", "Ward Everaddrdt"],
+        "genres": ["Comedy", "Horror"],
+        "viewed": [2023, 1, 17],
+        "image": "https://images2.imgbox.com/63/9d/CpmL9M1K_o.png",
+        "imdb": "https://www.imdb.com/title/tt2290065/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 59,
+        "title": "500 Days of Summer",
+        "released": 2009,
+        "rated": "PG-13",
+        "director": "Marc Webb",
+        "stars": ["Zoey Deschanel", "Joseph Gordon-Levitt", "Geoffrey Arend"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "viewed": [2023, 1, 24],
+        "image": "https://images2.imgbox.com/84/2c/iNyBfYJ6_o.png",
+        "imdb": "https://www.imdb.com/title/tt1022603/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 60,
+        "title": "Deadly Games",
+        "released": 1989,
+        "rated": "NR",
+        "director": "Rene Manzo",
+        "stars": ["Brigitte Fossey", "Louis Ducreux", "Patrick Floersheim"],
+        "genres": ["Action", "Horror", "Thriller"],
+        "viewed": [2023, 1, 26],
+        "image": "https://images2.imgbox.com/ad/ef/pnb1Roqk_o.png",
+        "imdb": "https://www.imdb.com/title/tt0096741/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 61,
+        "title": "Assault on Precint 13",
+        "released": 2005,
+        "rated": "R",
+        "director": "Jean-Francois Richet",
+        "stars": ["Ethan Hawke", "Laurence Fishburne", "Gabriel Byrne"],
+        "genres": ["Action", "Crime", "Drama", "Thriller"],
+        "viewed": [2023, 1, 31],
+        "image": "https://images2.imgbox.com/c6/b5/nwlKDkpa_o.png",
+        "imdb": ""
+    },
+
+    {
+        "index":62 ,
+        "title": "Se7en",
+        "released": 1995,
+        "rated": "R",
+        "director": "David Fincher",
+        "stars": ["Morgan Freeman", "Brad Pitt", "Kevin Spacey"],
+        "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+        "viewed": [2023, 2, 7],
+        "image": "https://images2.imgbox.com/ad/49/5ryeEuLJ_o.png",
+        "imdb": "https://www.imdb.com/title/tt0114369/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 63,
+        "title": "Alligator",
+        "released": 1980,
+        "rated": "R",
+        "director": "Lewis Teague",
+        "stars": ["Robert Forster", "Robin Riker", "Michael Gazzo"],
+        "genres": ["Horror", "Sci-Fi", "Thriller"],
+        "viewed": [2023, 2, 13],
+        "image": "https://images2.imgbox.com/fa/ee/jTLwGaT6_o.png",
+        "imdb": "https://www.imdb.com/title/tt0080354/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_alligator"
+    },
+
+    {
+        "index": 64,
+        "title": "Critical Condition",
+        "released": 1987,
+        "rated": "R",
+        "director": "Michael Apted",
+        "stars": ["Richard Pyror", "Rachel Ticotin", "Ruben Blades"],
+        "genres": ["Comedy"],
+        "viewed": [2023, 2, 21],
+        "image": "https://images2.imgbox.com/52/e9/4IWBXnnO_o.png",
+        "imdb": "https://www.imdb.com/title/tt0092798/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 65,
+        "title": "Red Rock West",
+        "released": 1993,
+        "rated": "R",
+        "director":"John Dahl",
+        "stars": ["Nicolas Cage", "Dennis Hopper", "Lara Flynn Boyle"],
+        "genres": ["Crime", "Drama", "Thriller"],
+        "viewed": [2023, 2, 28],
+        "image": "https://images2.imgbox.com/a3/aa/4R2B41al_o.png",
+        "imdb": "https://www.imdb.com/title/tt0105226/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 66,
+        "title": "Midnight Run",
+        "released": 1988,
+        "rated": "R",
+        "director": "Martin Brest",
+        "stars": ["Robert De Niro", "Charles Grodin", "Yaphet Kotto"],
+        "genres": ["Action", "Comedy", "Crime", "Thriller"],
+        "viewed": [2023, 3, 7],
+        "image": "https://images2.imgbox.com/e1/00/H1VgbAdF_o.png",
+        "imdb": "https://www.imdb.com/title/tt0095631/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 67,
+        "title": "Just Friends",
+        "released": 2005,
+        "rated": "PG-13",
+        "director": "Roger Kumble",
+        "stars": ["Ryan Reynold", "Amy Smart", "Anna Faris"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2023, 3, 14],
+        "image": "https://images2.imgbox.com/2c/83/S05gtZI7_o.png",
+        "imdb": "https://www.imdb.com/title/tt0433400/"
+    },
+
+    {
+        "index": 68,
+        "title": "London Has Fallen",
+        "released": 2016,
+        "rated": "R",
+        "director": "Babak Najafi",
+        "stars": ["Gerard Butler", "Aaron Eckhart", "Morgan Freeman"],
+        "genres": ["Action", "Thriller"],
+        "viewed": [2023, 3, 21],
+        "image": "https://images2.imgbox.com/91/5c/ML0WqYtt_o.png",
+        "imdb": "https://www.imdb.com/title/tt3300542/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 69,
+        "title": "Bucky",
+        "released": 1980,
+        "rated": "NR",
+        "director": "Bucky",
+        "stars": ["Bucy"],
+        "genres": ["Bizaare Macabre"],
+        "viewed": [2023, 3, 28],
+        "image": "https://images2.imgbox.com/1e/8c/z1hAwJrn_o.png",
+        "imdb": "https://www.instagram.com/buckyschuyler/"
+    },
+
+    {
+        "index": 70,
+        "title": "Dark City",
+        "released": 1998,
+        "rated": "R",
+        "director": "Alex Proyas",
+        "stars": ["Rufus Sewell", "Kiefer Sutherland", "Jennifer Connellly"],
+        "genres": ["Fantasy", "Mystery", "Sci-Fi", "Thriller"],
+        "viewed": [2023, 4 , 11],
+        "image": "https://images2.imgbox.com/de/d5/t8C00bRy_o.png",
+        "imdb": "https://www.imdb.com/title/tt0118929/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 71,
+        "title": "Super Cop",
+        "released": 1992,
+        "rated":"R" ,
+        "director": "Stanley Tong",
+        "stars": ["Jackie Chan", "Michelle Yeoh", "Maggie Cheung"],
+        "genres": ["Action", "Comedy", "Crime", "Thriller"],
+        "viewed": [2023, 4, 18],
+        "image": "https://images2.imgbox.com/90/41/w5chT3sr_o.png",
+        "imdb": "https://www.imdb.com/title/tt0104558/?ref_=fn_al_tt_5"
+    },
+
+    {
+        "index": 72,
+        "title": "Crouching Tiger, Hidden Dragon",
+        "released": 2000,
+        "rated": "PG-13",
+        "director": "Ang Lee",
+        "stars": ["Chow Yun-Fat", "Michelle Yeoh", "Kuo Jung, Tsai"],
+        "genres": ["Action", "Adventure", "Drama", "Fantasy", "Romance"],
+        "viewed": [2023, 4, 23],
+        "image": "https://images2.imgbox.com/12/4f/OAZrcODH_o.png",
+        "imdb": "https://www.imdb.com/title/tt0190332/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_crouching%2520tiger"
+    },
+
+    {
+        "index": 73,
+        "title": "Reform School Girls",
+        "released": 1986,
+        "rated": "R",
+        "director": "Tom DeSimone",
+        "stars": ["Linda Carol", "Wendy O. Williams", "Pat Ast"],
+        "genres": ["Crime", "Drama", "Thriller"],
+        "viewed": [2023, 5, 2],
+        "image": "https://images2.imgbox.com/69/f4/oF2wp3sC_o.png",
+        "imdb": "https://www.imdb.com/title/tt0091836/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 74,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "released": 2004,
+        "rated": "R",
+        "director": "Michel Gondry",
+        "stars": ["Jim Carey", "Kate Winslet", "Tom Wilkinson"],
+        "genres": ["Drama", "Romance", "Sci-Fi"],
+        "viewed": [2023, 5, 9],
+        "image": "https://images2.imgbox.com/42/49/ncT5Mada_o.png",
+        "imdb": "https://www.imdb.com/title/tt0338013/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 75,
+        "title": "Kung Fu Hustle",
+        "released": 2004,
+        "rated": "R",
+        "director": "Stephen Chow",
+        "stars": ["Stephen Chow", "Wah Yuen", "Qui Yuen"],
+        "genres": ["Action", "Comedy", "Fantasy"],
+        "viewed": [2023, 5, 16],
+        "image": "https://images2.imgbox.com/34/d3/jsJQ8djJ_o.png",
+        "imdb": "https://www.imdb.com/title/tt0373074/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 76,
+        "title": "Life of Brian",
+        "released": 1979,
+        "rated": "R",
+        "director": "Terry Jones",
+        "stars": ["Graham Chapman", "John Cleese", "Michael Palin"],
+        "genres": ["Comedy"],
+        "viewed": [2023, 5, 23],
+        "image": "https://images2.imgbox.com/01/c9/xuepwhu3_o.png",
+        "imdb": "https://www.imdb.com/title/tt0079470/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 77,
+        "title": "Akira",
+        "released": 1988,
+        "rated":"R",
+        "director": "Katsuhiro Otomo",
+        "stars": ["Mitsuo Iwata", "Nozomu Sasaki", "Mami Koyama"],
+        "genres": ["Animation", "Action", "Drama", "Fantasy", "Sci-Fi", "Thriller"],
+        "viewed": [2023, 5, 30],
+        "image": "https://images2.imgbox.com/d8/ea/Qg8pvfwE_o.png",
+        "imdb": "https://www.imdb.com/title/tt0094625/?ref_=tt_mv_close"
+    },
+
+    {
+        "index": 78,
+        "title": "Terrifier 2",
+        "released": 2022,
+        "rated": "NR",
+        "director": "Damien Leone",
+        "stars": ["Lauren LaVera", "David Howard Thorton", "Elliott Fullam"],
+        "genres": ["Horror"],
+        "viewed": [2023, 6, 13],
+        "image": "https://images2.imgbox.com/3e/8c/F87iQsHC_o.png",
+        "imdb": "https://www.imdb.com/title/tt10403420/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 79,
+        "title": "Police Academy 5: Assignment: Miami Beach",
+        "released": 1988,
+        "rated": "PG",
+        "director": "Alan Myerson",
+        "stars": ["Bubba Smith", "David Graf", "Michael Winslow"],
+        "genres": ["Comedy", "Crime"],
+        "viewed": [2023, 6, 20],
+        "image": "https://images2.imgbox.com/62/2d/udnhX2jt_o.png",
+        "imdb": "https://www.imdb.com/title/tt0095882/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_police%2520academy%25205"
+    },
+
+    {
+        "index": 80,
+        "title": "The Arrival",
+        "released": 1996,
+        "rated": "PG-13",
+        "director": "David Twohy",
+        "stars": ["Charlie Sheen", "Lindsay Crouse", "Richard Schiff"],
+        "genres": ["Mystery", "Sci-Fi", "Thriller"],
+        "viewed": [2023, 6, 26],
+        "image": "https://images2.imgbox.com/05/81/4L7dEp6T_o.png",
+        "imdb": "https://www.imdb.com/title/tt0115571/"
+    },
+
+    {
+        "index": 81,
+        "title": "Stay Tuned",
+        "released": 1992,
+        "rated": "PG",
+        "director": "Peter Hyams",
+        "stars": ["John Ritter", "Pam Dawber", "Jeffrey Jones"],
+        "genres": ["Adventure", "Comedy", "Fantasy"],
+        "viewed": [2023, 7, 18],
+        "image": "https://images2.imgbox.com/83/12/I8q1xPyk_o.png",
+        "imdb": "https://www.imdb.com/title/tt0105466/?ref_=tt_mv_close"
+    },
+
+    {
+        "index": 82,
+        "title": "Bustin' Loose",
+        "released": 1982,
+        "rated": "R",
+        "director": "Oz Scott",
+        "stars": ["Richard Pryor", "Cicely Tyson","Angel Ramirez Jr."],
+        "genres": ["Comedy", "Drama"],
+        "viewed": [2023, 7, 25],
+        "image": "https://images2.imgbox.com/79/82/S5QFFqAE_o.png",
+        "imdb": "https://www.imdb.com/title/tt0082121/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 83,
+        "title": "The Negotiator",
+        "released": 1998,
+        "rated": "R",
+        "director": "F. Gary Gray",
+        "stars": ["Samuel L. Jackson", "Kevin Spacey", "David Morse"],
+        "genres": ["Action", "Crime", "Drama", "Mystery", "Thriller"],
+        "viewed": [2023, 8 , 1],
+        "image": "https://images2.imgbox.com/68/25/xbg1fgUO_o.png",
+        "imdb": "https://www.imdb.com/title/tt0120768/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 84,
+        "title": "Fear in the Night",
+        "released": 1972,
+        "rated": "PG",
+        "director": "Jimmy Sangster",
+        "stars": ["Judy Geeson", "Joan Collins", "Ralph Bates"],
+        "genres": ["Horror", "Mystery", "Thriller"],
+        "viewed": [2023, 8 , 8],
+        "image": "https://images2.imgbox.com/e6/04/PM52XTYy_o.png",
+        "imdb": "https://www.imdb.com/title/tt0068577/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 85,
+        "title": "She-Devil",
+        "released": 1989,
+        "rated": "PG-13",
+        "director": "Susan Seidelman",
+        "stars": ["Meryl Streep", "Roseanne Barr", "Ed egley Jr."],
+        "genres": ["Comedy"],
+        "viewed": [2023, 8, 15],
+        "image": "https://images2.imgbox.com/57/e1/MHBZoyRA_o.png",
+        "imdb": "https://www.imdb.com/title/tt0098309/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 86,
+        "title": "Secret Admirer",
+        "released": 1985,
+        "rated": "R",
+        "director": "David Greenwalt",
+        "stars": ["C. Thomas Howell", "Lori Loughlin", "Kelly Preston"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2023, 8, 23],
+        "image": "https://images2.imgbox.com/d7/5c/KjhVee8c_o.png",
+        "imdb": "https://www.imdb.com/title/tt0089981/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 87,
+        "title": "Demonlition Man",
+        "released": 1993,
+        "rated": "R",
+        "director": "Marco Brambilla",
+        "stars": ["Sylvester Stallone", "Wesley Snipes", "Sandra Bullock"],
+        "genres": ["Action", "Sci-Fi", "Thriller"],
+        "viewed": [2023, 9 , 2],
+        "image": "https://images2.imgbox.com/50/09/YKmFSiL1_o.png",
+        "imdb": "https://www.imdb.com/title/tt0106697/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 88,
+        "title": "Edge of Tomorrow",
+        "released": 2014,
+        "rated": "PG-13",
+        "director": "Doug Liman",
+        "stars": ["Tom Cruise", "Emily Blunt", "Bill Paxton"],
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "viewed": [2023, 9, 5],
+        "image": "https://images2.imgbox.com/37/ce/wpqFyv9t_o.png",
+        "imdb": "https://www.imdb.com/title/tt1631867/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 89,
+        "title": "Shaun of the Dead",
+        "released": 2004,
+        "rated": "R",
+        "director": "Edgar Wright",
+        "stars": ["Simon Pegg", "Nick Frost", "Kate Ashfield"],
+        "genres": ["Comedy", "Horror"],
+        "viewed": [2023, 9, 12],
+        "image": "https://images2.imgbox.com/cd/88/nANHfQqv_o.png",
+        "imdb": "https://www.imdb.com/title/tt0365748/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 90,
+        "title": "Crazy Stupid Love",
+        "released": 2011,
+        "rated": "PG-13",
+        "director": "Glenn Ficarra",
+        "stars": ["Steve Carell", "Ryan Gosling", "Julianne Moore"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "viewed": [2023, 9, 19],
+        "image": "https://images2.imgbox.com/c3/c5/QSUxjDl3_o.png",
+        "imdb": "https://www.imdb.com/title/tt1570728/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 91,
+        "title": "Girlfriend from hell",
+        "released": 1989,
+        "rated": "R",
+        "director": "Daniel Peterson",
+        "stars": ["Liane Curtis", "Dana Ashbrook", "Lezlie Deane"],
+        "genres": ["Comedy", "Fantasy", "Horror"],
+        "viewed": [2023, 10, 3],
+        "image": "https://images2.imgbox.com/a1/2c/QIoYWnof_o.png",
+        "imdb": "https://www.imdb.com/title/tt0099664/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 92,
+        "title": "Tenebrae",
+        "released": 1982,
+        "rated": "R",
+        "director": "Dario Argento",
+        "stars": ["Anthony Franciosa", "Giuliano Gemma", "Christian Borromeo"],
+        "genres": ["Horror", "Mystery", "Thriller"],
+        "viewed": [2023, 10, 10],
+        "image": "https://images2.imgbox.com/de/20/0WZgmnql_o.png",
+        "imdb": "https://www.imdb.com/title/tt0084777/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 93,
+        "title": "Humanoids from the Deep",
+        "released": 1980,
+        "rated": "R",
+        "director": "Barbara Peeters",
+        "stars": ["Doug McClure", "Ann Turkel", "Vic Morrow"],
+        "genres": ["Horror", "Sci-Fi"],
+        "viewed": [2023, 10, 17],
+        "image": "https://images2.imgbox.com/93/ff/ZwFEXThL_o.png",
+        "imdb": "https://www.imdb.com/title/tt0080904/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 94,
+        "title": "The People Under the Stairs",
+        "released": 1991,
+        "rated": "R",
+        "director": "Wes Craven",
+        "stars": ["Brandon Quintin Adams", "Everett McGill", "Wendy Robie"],
+        "genres": ["Comedy", "Horror", "Mystery", "Theory"],
+        "viewed": [2023, 10, 24],
+        "image": "https://images2.imgbox.com/e8/32/8y0z98vl_o.png",
+        "imdb": "https://www.imdb.com/title/tt0105121/"
+    },
+
+    {
+        "index": 95,
+        "title": "Demons",
+        "released": 1985,
+        "rated": "NR",
+        "director": "Lamberto Bava",
+        "stars": ["Urbano Barberini", "Natasha Hovey", "Karl Zinny"],
+        "genres": ["Horror"],
+        "viewed": [2023, 10, 30],
+        "image": "https://images2.imgbox.com/16/88/R4gzGNdD_o.png",
+        "imdb": "https://www.imdb.com/title/tt0089013/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 96,
+        "title": "The Innocents",
+        "released": 2021,
+        "rated": "NR",
+        "director": "Eskil Vogt",
+        "stars": ["Rakel Lenora Petersen Flottum", "Alva Brynsmo Ramstad","Sam Ashraf"],
+        "genres": ["Drama", "Fantasy", "Horror", "Mystery", "Thriller"],
+        "viewed": [2023, 11, 7],
+        "image": "https://images2.imgbox.com/2d/b8/zzeGr1DC_o.png",
+        "imdb": "https://www.imdb.com/title/tt4028464/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 97,
+        "title": "Bonnie and Clyde",
+        "released": 1967,
+        "rated": "R",
+        "director": "Arthur Penn",
+        "stars": ["Warren Beatty", "Faey Dunaway", "Michael J. Pollard"],
+        "genres": ["Action", "Biography", "Crime", "Drama"],
+        "viewed": [2023, 11, 14],
+        "image": "https://images2.imgbox.com/5a/89/b6O9i129_o.png",
+        "imdb": "https://www.imdb.com/title/tt0061418/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 98,
+        "title": "It Happened One Night",
+        "released": 1934,
+        "rated": "Approved",
+        "director": "Frank Capra",
+        "stars": ["Clark Gable", "Claudette Colbert", "Walter Connolly"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2023, 11, 21],
+        "image": "https://images2.imgbox.com/e0/20/axIxI46r_o.png",
+        "imdb": "https://www.imdb.com/title/tt0025316/"
+    },
+
+    {
+        "index": 99,
+        "title": "The Hospital",
+        "released": 1971,
+        "rated": "PG-13",
+        "director": "Arthur Hiler",
+        "stars": ["George C. Scott", "Diana Rigg", "Barnard Huges"],
+        "genres": ["Comedy", "Drama", "History"],
+        "viewed": [2023, 11, 27],
+        "image": "https://images2.imgbox.com/fe/24/YvLTaLyb_o.png",
+        "imdb": "https://www.imdb.com/title/tt0067217/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 100,
+        "title": "City Slickers",
+        "released": 1991,
+        "rated": "PG-13",
+        "director": "Ron Underwood",
+        "stars": ["Billy Crystal", "Jack Palance", "Daniel Stern"],
+        "genres": ["Comedy", "Western"],
+        "viewed": [2023, 12, 5],
+        "image": "https://images2.imgbox.com/0c/c7/bmHTFR8Z_o.png",
+        "imdb": "https://www.imdb.com/title/tt0101587/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 101,
+        "title": "The Revenant",
+        "released": 2015,
+        "rated": "R",
+        "director": "Alejandro G. Inarritu",
+        "stars": ["Leonardo DiCaprio", "Tom Hardy", "Will Poulter"],
+        "genres": ["Action", "Adventure", "Drama", "Western"],
+        "viewed": [2023, 12, 12],
+        "image": "https://images2.imgbox.com/5b/55/GTaOTT1W_o.png",
+        "imdb": "https://www.imdb.com/title/tt1663202/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 102,
+        "title": "Club Dread",
+        "released": 2004,
+        "rated": "R",
+        "director": "Jay Chandrasekhar",
+        "stars": ["Jay Chandrasekhar", "Bill Paxton", "Kevin Heffernan"],
+        "genres": ["Comedy", "Horror", "Mystery", "Thriller"],
+        "viewed": [2023, 12 , 19],
+        "image": "https://images2.imgbox.com/bb/43/5UGbpnHx_o.png",
+        "imdb": "https://www.imdb.com/title/tt0331953/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 103,
+        "title": "The Cannonball Run",
+        "released": 1981,
+        "rated": "PG",
+        "director": "Hal Needham",
+        "stars": ["Burt Reynolds", "Roger Moore", "Farrah Fawcett"],
+        "genres": ["Action", "Comedy", "Sport"],
+        "viewed": [2023, 12, 26],
+        "image": "https://images2.imgbox.com/5b/c8/6b4C5sJR_o.png",
+        "imdb": "https://www.imdb.com/title/tt0082136/"
+    },
+
+    {
+        "index": 104,
+        "title": "Bride Wars",
+        "released": 2009,
+        "rated": "PG",
+        "director": "Gary Winick",
+        "stars": ["Kate Hudson", "Anne Hathaway", "Candice Bergen"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2024, 1, 2],
+        "image": "https://images2.imgbox.com/a2/6d/AmbvOqS2_o.png",
+        "imdb": "https://www.imdb.com/title/tt0901476/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 105,
+        "title": "Robowar",
+        "released": 1988,
+        "rated": "PG-13",
+        "director": "Bruno Mattei",
+        "stars": ["Reb Brown", "Catherine Hickland", "Massimo Vanni"],
+        "genres": ["Action", "Adventure", "Comedy", "Horror", "Sci-Fi"],
+        "viewed": [2024, 1, 9],
+        "image": "https://images2.imgbox.com/92/d2/edWscITn_o.png",
+        "imdb": "https://www.imdb.com/title/tt0096000/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 106,
+        "title": "The Book of Eli",
+        "released": 2010,
+        "rated": "R",
+        "director": "Albert Hughes",
+        "stars": ["Denzel Washington", "Mila Kunis", "Ray Stevenson"],
+        "genres": ["Action", "Adventure", "Drama", "Thriller"],
+        "viewed": [2024, 1, 16],
+        "image": "https://images2.imgbox.com/fd/d9/biOVDQxi_o.png",
+        "imdb": "https://www.imdb.com/title/tt1037705/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 107,
+        "title": "Much Ado About Nothing",
+        "released": 1993,
+        "rated": "PG-13",
+        "director": "Kenneth Branagh",
+        "stars": ["Kenneth Branagh", "Emma Thompson", "Keanu Reeves"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "viewed": [2024, 1, 30],
+        "image": "https://images2.imgbox.com/fd/46/Fy4j1Uh1_o.png",
+        "imdb": "https://www.imdb.com/title/tt0107616/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 108,
+        "title": "The Tingler",
+        "released": 1959,
+        "rated": "Approved",
+        "director": "William Castle",
+        "stars": ["Vincent Price", "Judith Evelyn", "Darryl Hickman"],
+        "genres": ["Horror", "Sci-Fi"],
+        "viewed": [2024, 2, 6],
+        "image": "https://images2.imgbox.com/97/43/3f7JFMF0_o.png",
+        "imdb": "https://www.imdb.com/title/tt0053363/"
+    },
+
+    {
+        "index": 109,
+        "title": "No Escape",
+        "released": 1994,
+        "rated": "R",
+        "director": "Martin Campbell",
+        "stars": ["Ray Liotta", "Lance Henriksen", "Stuart Wilson"],
+        "genres": ["Action", "Drama", "Sci-Fi", "Thriller"],
+        "viewed": [2024, 2, 13],
+        "image": "https://images2.imgbox.com/e5/eb/qQHQ0vTH_o.png",
+        "imdb": "https://www.imdb.com/title/tt0110678/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 110,
+        "title": "The Sixth Sense",
+        "released": 1999,
+        "rated": "PG-13",
+        "director": "M. Night Shyamalan",
+        "stars": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"],
+        "genres": ["Drama", "Mystery", "Thriller"],
+        "viewed": [2024, 2, 20],
+        "image": "https://images2.imgbox.com/81/70/g8Dge32z_o.png",
+        "imdb": "https://www.imdb.com/title/tt0167404/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 111,
+        "title": "The Parallax View",
+        "released": 1974,
+        "rated": "R",
+        "director": "Alan J. Pakula",
+        "stars": ["Warren Beatty", "Paula Prentiss", "William Daniels"],
+        "genres": ["Drama", "Mystery", "Thriller"],
+        "viewed": [2024, 2, 27],
+        "image": "https://images2.imgbox.com/cc/c0/GVieiqiu_o.png",
+        "imdb": "https://www.imdb.com/title/tt0071970/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 112,
+        "title": "Starman",
+        "released": 1984,
+        "rated": "PG",
+        "director": "John Carpenter",
+        "stars": ["Jeff Bridges", "Karen Allen", "Charles Martin Smith"],
+        "genres": ["Romance", "Sci-Fi"],
+        "viewed": [2024, 3, 5],
+        "image": "https://images2.imgbox.com/cf/2f/MD8t6VEh_o.png",
+        "imdb": "https://www.imdb.com/title/tt0088172/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 113,
+        "title": "The In-Laws",
+        "released": 2003,
+        "rated": "PG",
+        "director": "Arthur Hiller",
+        "stars": ["Peter Falk", "Alan Arkin", "Rcihard Libertini"],
+        "genres": ["Action", "Adventure", "Comedy", "Crime", "Thriller"],
+        "viewed": [2024, 3, 19],
+        "image": "https://images2.imgbox.com/bf/ee/gFv7FfrN_o.png",
+        "imdb": "https://www.imdb.com/title/tt0079336/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 114,
+        "title": "Raising Arizona",
+        "released": 1987,
+        "rated": "PG-13",
+        "director": "Joel Coen",
+        "stars": ["Nicolas Cage", "Holly Hunter", "Trey Wilson"],
+        "genres": ["Comedy", "Crime"],
+        "viewed": [2024, 4 , 2],
+        "image": "https://images2.imgbox.com/88/7d/39OE5Pdf_o.png",
+        "imdb": "https://www.imdb.com/title/tt0093822/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 115,
+        "title": "Enough Said",
+        "released": 2013,
+        "rated": "PG-13",
+        "director": "Nicole Holofcener",
+        "stars": ["Julia Louis-Dreyfus", "Catherine Keener"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "viewed": [2024, 4, 9],
+        "image": "https://images2.imgbox.com/34/56/bxkLO7NH_o.png",
+        "imdb": "https://www.imdb.com/title/tt2390361/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 116,
+        "title": "Almost Famous",
+        "released": 2000,
+        "rated": "R",
+        "director": "Cameron Crowe",
+        "stars": ["Billy Crudup", "Patrick Fugit", "Kate Hudson"],
+        "genres": ["Adventure", "Comedy", "Drama", "Music"],
+        "viewed": [2024, 4, 16],
+        "image": "https://images2.imgbox.com/b3/b4/L91fTCXQ_o.png",
+        "imdb": "https://www.imdb.com/title/tt0181875/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 117,
+        "title": "Airport'77",
+        "released": 1977,
+        "rated": "PG",
+        "director": "Jerry Jameson",
+        "stars": ["Jack Lemmon", "Lee Grant", "Joseph Cotten"],
+        "genres": ["Action", "Drama", "Thriller"],
+        "viewed": [2024, 4, 22],
+        "image": "https://images2.imgbox.com/56/b6/lsjS9oC1_o.png",
+        "imdb": "https://www.imdb.com/title/tt0075648/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 118,
+        "title": "Revenge of the Nerds II",
+        "released": 1987,
+        "rated": "PG-13",
+        "director": "Joe Roth",
+        "stars": ["Robert Carradine", "Curtis Armstrong", "Larry B. Scott"],
+        "genres": ["Comedy"],
+        "viewed": [2024, 4, 30],
+        "image": "https://images2.imgbox.com/b3/40/RfP0VD7L_o.png",
+        "imdb": "https://www.imdb.com/title/tt0093857/?ref_=fn_al_tt_3"
+    },
+
+    {
+        "index": 119,
+        "title": "Speed 2: Cruise Control",
+        "released": 1997,
+        "rated": "PG-13",
+        "director": "Jan de Bont",
+        "stars": ["Sandra Bullock", "Jason Patric", "Willem Dafoe"],
+        "genres": ["Action", "Adventure", "Crime", "Romance", "Thriller"],
+        "viewed": [2024, 5, 7],
+        "image": "https://images2.imgbox.com/0e/2c/qSIl2xkt_o.png",
+        "imdb": "https://www.imdb.com/title/tt0120179/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 120,
+        "title": "The Human Tornado",
+        "released": 1976,
+        "rated": "R",
+        "director": "Cliff Roquemore",
+        "stars": ["Rudy Ray Moore", "Lady Reed", "Jimmy Lynch"],
+        "genres": ["Action", "Comedy", "Drama"],
+        "viewed": [2024, 5, 14],
+        "image": "https://images2.imgbox.com/70/8b/zVxfVEoo_o.png",
+        "imdb": "https://www.imdb.com/title/tt0074653/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 121,
+        "title": "Austin Powers: The Spy Who Shagged Me",
+        "released": 1999,
+        "rated": "PG-13",
+        "director": "Jay Roach",
+        "stars": ["Mike Myers", "Heather Graham", "Michael York"],
+        "genres": ["Action", "Adventure", "Comedy", "Crime"],
+        "viewed": [2024, 5, 21],
+        "image": "https://images2.imgbox.com/ca/c0/FV168cpy_o.png",
+        "imdb": "https://www.imdb.com/title/tt0145660/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 122,
+        "title": "A Shot in the Dark",
+        "released": 1964,
+        "rated": "Approved",
+        "director": "Blake Edwards",
+        "stars": ["Peter Sellers", "Elke Sommer", "George Sanders"],
+        "genres": ["Comedy", "Crime", "Mystery"],
+        "viewed": [2024, 5, 28],
+        "image": "https://images2.imgbox.com/c9/73/BFaoFoKH_o.png",
+        "imdb": "https://www.imdb.com/title/tt0058586/?ref_=fn_al_tt_1"
+    },
+
+
+    {
+        "index": 123,
+        "title": "13 Going on 30",
+        "released": 2004,
+        "rated": "PG-13",
+        "director": "Gary Winick",
+        "stars": ["Jennifer Garner", "Mark Ruffalo", "Judy Greer"],
+        "genres": ["Comedy", "Fantasy", "Romance"],
+        "viewed": [2024, 6, 4],
+        "image": "https://images2.imgbox.com/43/c4/UDnJaUqT_o.png",
+        "imdb": "https://www.imdb.com/title/tt0337563/?ref_=fn_al_tt_1"
+    },
+
+
+    {
+        "index": 124,
+        "title": "Ninja III: The Domination",
+        "released": 1984,
+        "rated": "R",
+        "director": "Sam Firstenberg",
+        "stars": ["Sho Kosugi", "Lucinda Dickey", "Jordan Bennett"],
+        "genres": ["Action", "Fantasy", "Thriller"],
+        "viewed": [2024, 6, 11],
+        "image": "https://images2.imgbox.com/62/5c/c7HpcyvT_o.png",
+        "imdb": "https://www.imdb.com/title/tt0087805/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 125,
+        "title": "Bound",
+        "released": 1996,
+        "rated": "R",
+        "director": "Wachowski",
+        "stars": ["Jennifer Tilly", "Gina Gerhson", "Joe Pantoliano"],
+        "genres": ["Crime", "Thriller"],
+        "viewed": [2024, 6, 18],
+        "image": "https://images2.imgbox.com/a6/83/UJhmMmQ8_o.png",
+        "imdb": "https://www.imdb.com/title/tt0115736/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 126,
+        "title": "Exotica",
+        "released": 1994,
+        "rated": "R",
+        "director": "Atom Egoyan",
+        "stars": ["Bruce Greenwood", "Elias Koteas", "Don McKellar"],
+        "genres": ["Drama"],
+        "viewed": [2024, 3, 25],
+        "image": "https://images2.imgbox.com/96/f2/E8aM2PGz_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0109759/"
+    },
+
+    {
+        "index": 127,
+        "title": "Wishmaster",
+        "released": 1997,
+        "rated": "R",
+        "director": "Robert Kurtzman",
+        "stars": ["Tammy Lauren", "Andrew Divoff", "Angus Scrimm"],
+        "genres": ["Fantasy", "Horror"],
+        "viewed": [2024, 7, 2],
+        "image": "https://images2.imgbox.com/4c/a4/LtdiKPQ3_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0120524/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 128,
+        "title": "The Burning",
+        "released": 1981,
+        "rated": "R",
+        "director": "Tony Maylam",
+        "stars": ["Brian Matthews", "Leah Ayres", "Brian Backer"],
+        "genres": ["Horror"],
+        "viewed": [2024, 7 ,9],
+        "image": "https://images2.imgbox.com/11/dd/vS4bEZiz_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0082118/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 129,
+        "title": "Redbelt",
+        "released": 2008,
+        "rated": "R",
+        "director": "David Mamet",
+        "stars": ["Chiwetel Ejiofor", "Tim Allen", "Emily Mortimer"],
+        "genres": ["Drama", "Sport"],
+        "viewed": [2024, 7, 16],
+        "image": "https://images2.imgbox.com/c1/52/OJUqB3lw_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt1012804/?ref_=fn_al_tt_2"
+    },
+
+    {
+        "index": 130,
+        "title": "State and Main",
+        "released": 2000,
+        "rated": "R",
+        "director": "David Mamet",
+        "stars": ["Philip Seymour Hoffman", "William H. Macy", "Rebecca Pidgeon"],
+        "genres": ["Comedy", "Drama"],
+        "viewed": [2024, 7 , 23],
+        "image": "https://images2.imgbox.com/4a/dc/3r21pfQN_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0120202/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 131,
+        "title": "Along Came Polly",
+        "released": 2004,
+        "rated": "PG-13",
+        "director": "John Hamburg",
+        "stars": ["Ben Stiller", "Jennifer Aniston", "Debra Messing"],
+        "genres": ["Comedy", "Romance"],
+        "viewed": [2024, 7, 30],
+        "image": "https://images2.imgbox.com/12/8c/AiT8y3fJ_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0343135/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 132,
+        "title": "Night Shift",
+        "released": 1982,
+        "rated": "R",
+        "director": "Ron Howard",
+        "stars": ["Henry Winkler", "Michael Keaton", "Shelly Long"],
+        "genres": ["Comedy"],
+        "viewed": [2024, 8, 6],
+        "image": "https://images2.imgbox.com/ac/b2/Bag0i4nq_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0084412/?ref_=fn_al_tt_1"
+    },{
+        "index": 133,
+        "title": "Rock Star",
+        "released": 2001,
+        "rated": "R",
+        "director": "Stephen Herek",
+        "stars": ["Mark Whalberg", "Jennifer Aniston", "Dominic West"],
+        "genres": ["Drama", "Music"],
+        "viewed": [2024, 8, 13],
+        "image": "https://images2.imgbox.com/0f/4d/c0hD2E5T_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0202470/?ref_=fn_al_tt_1"
+    },{
+        "index": 134,
+        "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+        "released": 1984,
+        "rated": "PG",
+        "director": "W.D. Richter",
+        "stars": ["Peter Weler", "John Lithgow", "Ellen Barkin"],
+        "genres": ["Adventure", "Comedy", "Sci-Fi"],
+        "viewed": [2024, 8, 20],
+        "image": "https://images2.imgbox.com/39/5e/Oheupvzw_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0086856/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 135,
+        "title": "The Burial",
+        "released": 2023,
+        "rated": "R",
+        "director": "Maggie Betts",
+        "stars": ["Jamie Foxx", "Tommy Lee Jones", "Jurnee Smollett"],
+        "genres": ["Drama"],
+        "viewed": [2024, 8, 27],
+        "image": "https://images2.imgbox.com/c2/08/zU1U7vmA_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt5648882/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 136,
+        "title": "10 Things I Hate About You",
+        "released": 1999,
+        "rated": "PG-13",
+        "director": "Gil Junger",
+        "stars": ["Heath Ledger", "Julia Styles", "Joseph Gordon-Levitt"],
+        "genres": ["Comedy", "Drama", "Romance"],
+        "viewed": [2024, 9, 3],
+        "image": "https://images2.imgbox.com/a0/53/y3lbjKIT_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0147800/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 137,
+        "title": "Duck Soup",
+        "released": 1993,
+        "rated": "Approved",
+        "director": "Leo McCarey",
+        "stars": ["Groucho Marx", "Harpo Marx", "Chico Marx"],
+        "genres": ["Comedy", "Musical"],
+        "viewed": [2024, 9, 10],
+        "image": "https://images2.imgbox.com/e2/5f/pMcnafTb_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0023969/?ref_=fn_al_tt_1"
+    }
+   
+
+
+
+
+]
