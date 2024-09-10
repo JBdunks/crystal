@@ -1,12 +1,11 @@
-
+import data from './movies.json';
+import MoviesList from './components/MoviesList';
 function App() {
 
-
+  console.log(data.length)
   return (
     <div>
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+        <MoviesList  data= {data}/>
     </div>
   )
 }
