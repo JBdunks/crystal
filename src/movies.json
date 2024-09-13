@@ -58,7 +58,7 @@
         "rated": "R",
         "director": "Newt Arnold",
         "stars": ["Jean-Claude Van Damme", "Forest Whitaker"],
-        "genres": ["Action", "Biogrpahy", "Drama", "Sport"],
+        "genres": ["Action", "Biography", "Drama", "Sport"],
         "viewed": [2022, 1, 25],
         "image": "https://images2.imgbox.com/bf/43/fsFlZlBt_o.png",
         "imdb": "https://www.imdb.com/title/tt0092675/"
@@ -215,7 +215,7 @@
         "rated": "R",
         "director": "Patrick Lussier",
         "stars": ["Jensen Ackles", "Jamie King", "Kerr Smith"],
-        "genres": ["Horror", "Mystlery", "Thriller"],
+        "genres": ["Horror", "Mystery", "Thriller"],
         "viewed": [2022, 4,20],
         "image": "https://images2.imgbox.com/6c/50/KI8lyU8y_o.png",
         "imdb": "https://www.imdb.com/title/tt1179891/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_my%2520bloody%2520valentine"
@@ -1215,7 +1215,7 @@
         "rated": "R",
         "director": "Barbara Peeters",
         "stars": ["Doug McClure", "Ann Turkel", "Vic Morrow"],
-        "genres": ["Horror", "Sci-Fi"],
+        "genres": ["Horror", "Sci-Fi",""],
         "viewed": [2023, 10, 17],
         "image": "https://images2.imgbox.com/93/ff/ZwFEXThL_o.png",
         "imdb": "https://www.imdb.com/title/tt0080904/?ref_=fn_al_tt_1"
@@ -1228,7 +1228,7 @@
         "rated": "R",
         "director": "Wes Craven",
         "stars": ["Brandon Quintin Adams", "Everett McGill", "Wendy Robie"],
-        "genres": ["Comedy", "Horror", "Mystery", "Theory"],
+        "genres": ["Comedy", "Horror", "Mystery", "Thriller"],
         "viewed": [2023, 10, 24],
         "image": "https://images2.imgbox.com/e8/32/8y0z98vl_o.png",
         "imdb": "https://www.imdb.com/title/tt0105121/"
@@ -1291,9 +1291,9 @@
         "title": "The Hospital",
         "released": 1971,
         "rated": "PG-13",
-        "director": "Arthur Hiler",
+        "director": "Arthur Hiller",
         "stars": ["George C. Scott", "Diana Rigg", "Barnard Huges"],
-        "genres": ["Comedy", "Drama", "History"],
+        "genres": ["Comedy", "Drama", "Mystery"],
         "viewed": [2023, 11, 27],
         "image": "https://images2.imgbox.com/fe/24/YvLTaLyb_o.png",
         "imdb": "https://www.imdb.com/title/tt0067217/?ref_=fn_al_tt_1"
@@ -1781,11 +1781,11 @@
     {
         "index": 137,
         "title": "Duck Soup",
-        "released": 1993,
+        "released": 1933,
         "rated": "Approved",
         "director": "Leo McCarey",
         "stars": ["Groucho Marx", "Harpo Marx", "Chico Marx"],
-        "genres": ["Comedy", "Musical"],
+        "genres": ["Comedy", "Music"],
         "viewed": [2024, 9, 10],
         "image": "https://images2.imgbox.com/e2/5f/pMcnafTb_o.jpg",
         "imdb": "https://www.imdb.com/title/tt0023969/?ref_=fn_al_tt_1"

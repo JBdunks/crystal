@@ -1,11 +1,13 @@
 import data from './movies.json';
-import MoviesList from './components/MoviesList';
+import Top from './components/Top';
+import SearchBar from './components/SearchBar';
 function App() {
 
-  console.log(data.length)
+  const totalMovies =(data.length)
   return (
-    <div>
-        <MoviesList  data= {data}/>
+    <div className='overflow-hidden'>
+      <Top  total= {totalMovies}/>
+      <SearchBar data= {data}/>
     </div>
   )
 }

@@ -1,6 +1,6 @@
 const MovieCard =({ title, released, rated, director, stars, genres, viewed, image, imdb }) => {
     return(
-        <div className = 'w-96 bg-gray-800 p-2 pt-6 border border-black rounded-xl'>
+        <div className = 'w-full md:w-96 bg-gray-800 p-2 pt-6 border border-black rounded-2xl'>
             <div className='flex justify-center'>
                 <img src={image} alt='poster' className = 'w-62 h-96 shadow-sm border border-black duration-200 hover:scale-110'/>
             </div>
