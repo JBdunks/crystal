@@ -8,7 +8,7 @@ const MovieCard =({ title, released, rated, director, stars, genres, viewed, ima
            <div>
                 <div className='flex flex-row justify-between border-b border-black text-white'>
                     <p className = 'font-bold'>{released}</p>
-                    <p className ='font-bold'>Rated: <span className ='text-gray-500'>{rated}</span ></p>
+                    <p className ='font-bold'>Rated: <span className ='text-white'>{rated}</span ></p>
                     <p>{new Date(viewed).toString().slice(3,15)}</p>
                 </div>
                 <div className = ' border-b border-black mb-2 text-white'>
