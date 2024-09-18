@@ -1789,10 +1789,19 @@
         "viewed": [2024, 9, 10],
         "image": "https://images2.imgbox.com/e2/5f/pMcnafTb_o.jpg",
         "imdb": "https://www.imdb.com/title/tt0023969/?ref_=fn_al_tt_1"
+    },
+
+    {
+        "index": 138,
+        "title": "The Last Boy Scout",
+        "released": 1991,
+        "rated": "Approved",
+        "director": "Tony Scott",
+        "stars": ["Bruce Willis", "Damon Wayans", "Chelsea Field"],
+        "genres": ["Action", "Comedy", "Crime", "Thriller"],
+        "viewed": [2024, 9, 17],
+        "image": "https://images2.imgbox.com/59/ca/OvJJvs3f_o.jpg",
+        "imdb": "https://www.imdb.com/title/tt0102266/"
     }
-   
-
-
-
 
 ]

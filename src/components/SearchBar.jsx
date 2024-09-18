@@ -37,7 +37,7 @@ const SearchBar = ({ data }) => {
     const getDecade = (begin, end) =>{
         setGenre('')
         setRatings([])
-        setDecade(data.filter((movie)=> movie.released > begin && movie.released < end))
+        setDecade(data.filter((movie)=> movie.released >= begin && movie.released < end))
     }
 
     const getGenre =(g) => { 
